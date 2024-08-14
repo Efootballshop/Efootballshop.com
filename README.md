@@ -18,7 +18,7 @@ Welcome to Ali's eCommerce Portfolio website! This project is a simple yet respo
 
 ## Screenshots
 
-![Home Page](https://via.placeholder.com/1200x600)
+![Home Page](https://i.postimg.cc/k5WfGkp5/Screenshot-20240731-123139-e-Football.jpg)
 *Screenshot of the Home Page*
 
 ## How to Use
@@ -31,7 +31,7 @@ Welcome to Ali's eCommerce Portfolio website! This project is a simple yet respo
 
 ## Live Demo
 
-You can view the live demo of the website [here](https://your-live-demo-link.com).
+You can view the live demo of the website [here]([https://your-live-demo-link.com](https://efootballshop.github.io/Efootballshop.com/).
 
 ## Customization
 
